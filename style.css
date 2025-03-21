@@ -1,0 +1,19 @@
+nav a{
+    text-align : center;
+    margin: 115px; 
+    background-color:beige;
+    color:navy;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/abstract-background-design-dark-green_53876-59276.jpg");
+    background-size: cover;
+}
+h1{
+    text-align:center;
+    color:blanchedalmond;
+    margin:2%;
+    margin-left:550px;
+}
